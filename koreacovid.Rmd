@@ -52,10 +52,18 @@ This plot is showing that a very small percentage of people have died from COVID
 
   
 ## Numerical results
-
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
 
 ## Inferential results 
-
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
 
 
