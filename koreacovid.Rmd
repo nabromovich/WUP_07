@@ -64,8 +64,8 @@ chisq.test(table1)
 chisqtestGC(table1)
 fisher.test(table1)
 ```
-
+The chi sq test provide the exact numbers. It shoes that 1831 people were females and that 1411 males that are alive.  It also shows that 25 females and 44 males have died.  The Fisher test shows us the odds of dying for male is that they are 2.3 times more likely to die than females. 
 
 
 ## Conclusions
-
+In conclusion, the data shows men were more likely to die than females for the COVID virus. The data used in this study was from the beginning the start of COVID, March 2020.  Therefor these results could continue to change. 
