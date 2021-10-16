@@ -46,7 +46,7 @@ barchartGC(~result + Sex,data=kRdata, type="percent")
 ```
   
 
-
+This plot is showing that a very small percentage of people have died from COVID.  Of the 1831 females that got sick only 25 died.  In men that caught COVID, a total of 1141, 44 have died of the virus. With this data we can see that males die more often than females. 
 
 
 
